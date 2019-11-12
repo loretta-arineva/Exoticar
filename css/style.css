@@ -113,7 +113,7 @@ html {
 /* ======= BANNER ====== */
 
 main section:first-of-type {
-    background: url(master/images/804902_1482740170.jpeg);
+    background: url(https://raw.githubusercontent.com/kasai-senshi/Exoticar/master/images/804902_1482740170.jpeg);
     height: 620px;
     background-size: cover;
 }
@@ -128,7 +128,7 @@ h2 {
     font-size: 60px;
     text-transform: uppercase;
     font-weight: 700;
-}
+}   
 
 .sub {
     font-size: 21px;
