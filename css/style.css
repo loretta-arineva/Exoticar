@@ -113,7 +113,7 @@ html {
 /* ======= BANNER ====== */
 
 main section:first-of-type {
-    background: url(/master/images/804902_1482740170.jpeg);
+    background: url(master/images/804902_1482740170.jpeg);
     height: 620px;
     background-size: cover;
 }
