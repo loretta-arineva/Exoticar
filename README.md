@@ -7,4 +7,4 @@ It is focused on using Photoshop mockups to build a website, follow semantic UI 
 The project also includes a simple error 404 page.
 
 ### Author
-Loretta Senshi
+Loreta Krasteva
